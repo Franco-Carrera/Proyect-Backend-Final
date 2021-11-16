@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "alacena",
+    "thumbnail": "Muebles",
+    "price": 8.48,
+    "adopted": false
+  },
+  {
+    "id": 2,
+    "title": "Monitor",
+    "thumbnail": "Tecnology",
+    "price": 6.5,
+    "adopted": false
+  },
+  {
+    "id": 3,
+    "title": "maceta geotextil",
+    "thumbnail": "Growshop",
+    "price": 2.3,
+    "adopted": false
+  },
+  {
+    "id": 4,
+    "title": "teclado",
+    "thumbnail": "Tecnology",
+    "price": 1.9,
+    "adopted": false
+  },
+  {
+    "id": 5,
+    "title": "sillon",
+    "thumbnail": "Muebles",
+    "price": 12.6,
+    "adopted": false
+  },
+  {
+    "id": 6,
+    "title": "Aire acondiconado",
+    "thumbnail": "Electricidad",
+    "price": 14,
+    "adopted": true
+  },
+  {
+    "id": 7,
+    "title": "Jeans",
+    "thumbnail": "Indumentaria",
+    "price": 1400,
+    "adopted": false
+  },
+  {
+    "id": 8,
+    "adopted": false
+  },
+  {
+    "id": 9,
+    "adopted": false
+  },
+  {
+    "id": 10,
+    "adopted": false
+  },
+  {
+    "id": 11,
+    "adopted": false
+  }
+]
